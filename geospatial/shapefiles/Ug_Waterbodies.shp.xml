@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Water bodies</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">Ug_Waterbodies</ftname><onlink Sync="TRUE">\\WRICSAP029333\GIS\Working\Poverty_mapping_Uganda\GIS\GIS_metadata\Ug_Waterbodies\Ug_Waterbodies</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Main open water bodies of Uganda.</abstract>
+			<supplinf>This dataset results from the combination of three datasets:
+1. NATIONAL FOREST AUTHORITY (NFA). 1996. Land Cover GIS Database. Kampala, Uganda: Government of Uganda, NFA.
+2. NATIONAL IMAGERY AND MAPPING AGENCY (NIMA). 1997. Vector Map Level 0 (Digital Chart of the World), 3rd Edition. Fairfax, Virginia: NIMA.
+3. BRAKENRIDGE, G.R., E. ANDERSON AND S. CAQUARAD. 2006. Global Active Archive of Large Flood Events. Data selected for Lake Victoria. Hanover, New Hampshire, USA: Dartmouth Flood Observatory.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<update>None planned</update>
+			<progress>REQUIRED: The state of the data set.</progress></status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">29.302490</westbc>
+				<eastbc Sync="TRUE">36.707932</eastbc>
+				<northbc Sync="TRUE">4.569293</northbc>
+				<southbc Sync="TRUE">-3.013480</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">29.302490</leftbc><rightbc Sync="TRUE">36.707932</rightbc><bottombc Sync="TRUE">-3.013480</bottombc><topbc Sync="TRUE">4.569293</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>Water</themekey>
+				<themekey>inland water</themekey></theme>
+			<place>
+				<placekey>Uganda</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>Dataset is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, WRI cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. WRI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+		<datacred>1. NATIONAL FOREST AUTHORITY (NFA). 1996. Land Cover GIS Database. Kampala, Uganda: Government of Uganda, NFA.
+2. NATIONAL IMAGERY AND MAPPING AGENCY (NIMA). 1997. Vector Map Level 0 (Digital Chart of the World), 3rd Edition. Fairfax, Virginia: NIMA.
+3. BRAKENRIDGE, G.R., E. ANDERSON AND S. CAQUARAD. 2006. Global Active Archive of Large Flood Events. Data selected for Lake Victoria. Hanover, New Hampshire, USA: Dartmouth Flood Observatory.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset moved.</procdesc>
+				<srcused Sync="TRUE">M:\Working\Poverty_mapping_Uganda\GIS\GIS_data\Ug_Health\Ug_rural-safe-water-coverage_DWD2008_03Jan09</srcused>
+				<time Sync="TRUE">12274400</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<srcused Sync="TRUE"></srcused>
+				<procdate Sync="TRUE">20100218</procdate>
+				<proctime Sync="TRUE">11530700</proctime>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\FLOREN~1.LAN\LOCALS~1\Temp\xml4B.tmp</srcused><procdate Sync="TRUE">20100323</procdate><proctime Sync="TRUE">11092600</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset moved.</procdesc><srcused Sync="TRUE">M:\Working\Poverty_mapping_Uganda\GIS\GIS_metadata\Ug_Waterbodies</srcused><procdate Sync="TRUE">20100802</procdate><proctime Sync="TRUE">15162900</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="Ug_Waterbodies">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">1</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="Ug_Waterbodies"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="Ug_Waterbodies">
+			<enttyp>
+				<enttypl Sync="TRUE">Ug_Waterbodies</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">Id</attrlabl><attalias Sync="TRUE">Id</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">3.166</transize>
+					<dssize Sync="TRUE">3.166</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100505</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>World Resources Institute</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>10 G Street NE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20002</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>+1-202-729-7600</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{E1F5A90E-079E-4F1B-B273-4F55FCAEE1C0}</MetaID><CreaDate>20100323</CreaDate><CreaTime>11092600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100505</SyncDate><SyncTime>13572400</SyncTime><ModDate>20100505</ModDate><ModTime>13572400</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">Ug_Waterbodies</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">29.30249</westBL><eastBL Sync="TRUE">36.707932</eastBL><northBL Sync="TRUE">4.569293</northBL><southBL Sync="TRUE">-3.01348</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">29.30249</westBL><eastBL Sync="TRUE">36.707932</eastBL><northBL Sync="TRUE">4.569293</northBL><southBL Sync="TRUE">-3.01348</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\WRICSAP029333\GIS\Working\Poverty_mapping_Uganda\GIS\GIS_metadata\Ug_Waterbodies\Ug_Waterbodies</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">3.166</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="Ug_Waterbodies"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100505</mdDateSt></metadata>
